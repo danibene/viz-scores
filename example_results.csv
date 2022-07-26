@@ -1,0 +1,61 @@
+Score,Number of features,Scaler,Classifier
+0.9,1,None,Logistic Regression
+0.9298245614035088,1,None,Linear SVM
+0.9175438596491228,1,None,RBF SVM
+0.887719298245614,1,None,Random Forest
+0.8368421052631578,1,None,Multilayer Perceptron
+0.907017543859649,1,Standard Scaler,Logistic Regression
+0.9070175438596492,1,Standard Scaler,Linear SVM
+0.9087719298245615,1,Standard Scaler,RBF SVM
+0.8719298245614036,1,Standard Scaler,Random Forest
+0.9,1,Standard Scaler,Multilayer Perceptron
+0.9263157894736842,1,Robust Scaler,Logistic Regression
+0.9245614035087719,1,Robust Scaler,Linear SVM
+0.9192982456140351,1,Robust Scaler,RBF SVM
+0.8894736842105264,1,Robust Scaler,Random Forest
+0.905263157894737,1,Robust Scaler,Multilayer Perceptron
+0.9157894736842105,2,None,Logistic Regression
+0.9333333333333332,2,None,Linear SVM
+0.9438596491228071,2,None,RBF SVM
+0.9368421052631579,2,None,Random Forest
+0.8385964912280702,2,None,Multilayer Perceptron
+0.9192982456140351,2,Standard Scaler,Logistic Regression
+0.9280701754385966,2,Standard Scaler,Linear SVM
+0.9315789473684211,2,Standard Scaler,RBF SVM
+0.9263157894736842,2,Standard Scaler,Random Forest
+0.9157894736842105,2,Standard Scaler,Multilayer Perceptron
+0.9105263157894736,2,Robust Scaler,Logistic Regression
+0.9298245614035088,2,Robust Scaler,Linear SVM
+0.917543859649123,2,Robust Scaler,RBF SVM
+0.9315789473684211,2,Robust Scaler,Random Forest
+0.9175438596491228,2,Robust Scaler,Multilayer Perceptron
+0.9456140350877191,10,None,Logistic Regression
+0.956140350877193,10,None,Linear SVM
+0.9157894736842106,10,None,RBF SVM
+0.9578947368421051,10,None,Random Forest
+0.9228070175438596,10,None,Multilayer Perceptron
+0.9298245614035089,10,Standard Scaler,Logistic Regression
+0.9350877192982455,10,Standard Scaler,Linear SVM
+0.9596491228070174,10,Standard Scaler,RBF SVM
+0.9333333333333332,10,Standard Scaler,Random Forest
+0.9456140350877194,10,Standard Scaler,Multilayer Perceptron
+0.9456140350877194,10,Robust Scaler,Logistic Regression
+0.9298245614035088,10,Robust Scaler,Linear SVM
+0.956140350877193,10,Robust Scaler,RBF SVM
+0.9438596491228071,10,Robust Scaler,Random Forest
+0.9350877192982455,10,Robust Scaler,Multilayer Perceptron
+0.9473684210526315,all,None,Logistic Regression
+0.9596491228070174,all,None,Linear SVM
+0.9263157894736842,all,None,RBF SVM
+0.9649122807017545,all,None,Random Forest
+0.9192982456140353,all,None,Multilayer Perceptron
+0.9701754385964912,all,Standard Scaler,Logistic Regression
+0.9736842105263157,all,Standard Scaler,Linear SVM
+0.982456140350877,all,Standard Scaler,RBF SVM
+0.9666666666666666,all,Standard Scaler,Random Forest
+0.9736842105263157,all,Standard Scaler,Multilayer Perceptron
+0.9736842105263157,all,Robust Scaler,Logistic Regression
+0.9614035087719298,all,Robust Scaler,Linear SVM
+0.9719298245614034,all,Robust Scaler,RBF SVM
+0.968421052631579,all,Robust Scaler,Random Forest
+0.9771929824561404,all,Robust Scaler,Multilayer Perceptron
